@@ -1,0 +1,3 @@
+pip install -r requirements.txt
+spacy install en
+python app.py
